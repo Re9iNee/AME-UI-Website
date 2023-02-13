@@ -1,0 +1,23 @@
+Introduction Site: 
+Index Page
+
+Loads Header -> 
+on Desktop: 
+Logo with home page link, search input, navigating to other places link (components design development), version manager (optional), language drop down, git hub repo link
+on Mobile: 
+Logo with homepage link, hamburger icon that opens on click
+
+
+
+
+Loads Sidebar
+Loads Footer
+
+Header
+Loads components link
+Loads Installation link
+Loads to Github link
+
+
+Navbar
+Loads component list with link to their page
